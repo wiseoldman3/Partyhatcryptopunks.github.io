@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x7034b4eb06edeb865d29555cff578f0204ee3d33",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0x7034b4eb06edeb865d29555cff578f0204ee3d33",
+  "CONTRACT_ADDRESS": "0x6C164D5AD7f48F9589EeEb603f732025913742dA",
+  "SCAN_LINK": "https://polygonscan.com/address/0x6C164D5AD7f48F9589EeEb603f732025913742dA",
   "NETWORK": {
-    "NAME": "Rinkeby Test Net",
-    "SYMBOL": "ETH",
-    "ID": 4
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
   },
-  "NFT_NAME": "Test Punks",
-  "SYMBOL": "TP",
-  "MAX_SUPPLY": 50,
-  "WEI_COST": 10000000000000000,
-  "DISPLAY_COST": 0.01,
+  "NFT_NAME": "Party-Hat Crypto Punks",
+  "SYMBOL": "PHCP",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 12,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/test-punks-v3",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/party-hat-crypto-punks",
   "SHOW_BACKGROUND": true
 }
